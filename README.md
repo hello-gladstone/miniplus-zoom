@@ -1,7 +1,5 @@
 ![MiniPlusZoom](miniplus-zoom-logo.png)
 
-![Demo](miniplus-zoom-demo.gif)
-
 # MiniPlusZoom
 
 **A freeze-and-zoom inspection tool for the Miyoo Mini Plus (Onion OS).**
@@ -38,6 +36,8 @@ The game itself never knows anything happened.
 5. Put the card back, boot up, launch a game, press MENU + L1
 
 To uninstall, delete those two files. That's the whole footprint.
+
+![Demo](miniplus-zoom-demo.gif)
 
 ## If you'd like to re-build from source
 
