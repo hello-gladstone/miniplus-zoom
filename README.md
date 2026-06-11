@@ -2,7 +2,7 @@
 
 **A freeze-and-zoom inspection tool for the Miyoo Mini Plus (Onion OS).**
 
-MiniPlusZoom pauses your game and hands you a magnifying glass. Press one button combo, the game freezes, and you get a clean 5x zoom you can pan around with the D-pad. Press it again and the game resumes exactly where it left off — no save states touched, no settings changed, nothing modified.
+MiniPlusZoom pauses your game and hands you a magnifying glass. Press one button combo, the game freezes, and you get a clean 5x zoom you can pan around with the D-pad. Press it again and the game resumes exactly where it left off. No save states touched, no settings changed, nothing modified.
 
 Built for looking more closely at delicious game art. 
 
