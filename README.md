@@ -1,3 +1,7 @@
+![MiniPlusZoom](miniplus-zoom-logo.png)
+
+![Demo](miniplus-zoom-demo.gif)
+
 # MiniPlusZoom
 
 **A freeze-and-zoom inspection tool for the Miyoo Mini Plus (Onion OS).**
