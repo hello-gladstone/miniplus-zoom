@@ -55,6 +55,8 @@ Tested on the **Miyoo Mini Plus** running **Onion OS Stable: V4.3.1-1**. The but
 
 ## The story
 
+This started with a Reddit post. u/mmm_apple asked whether a zoom feature like the Steam Deck's could be done in software on the Miyoo with a button combo — and how feasible it would be to build. Reading that, I realized: holy shit, I really want that function. So I made it.
+
 This is my first piece of software. I'm not a programmer. I'm an artist and graphic designer who wanted to look closer at pixel art on a handheld, was told that wasn't a thing, and decided it should a thing. Creating this took 3 days of trouble-shooting and vibe-coding with Claude Code, a cross-compiler, a button-code detector, one stubborn double-buffering bug, lots of trial and error. Ultimately super easy and worth it. 
 
 
